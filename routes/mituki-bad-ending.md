@@ -4,11 +4,12 @@ author: AmenAnthem
 ---
 
 # Route
+- go to `B2F`
 - speak to crew members, get `Lv2 Card`
 - run away, enter elevator
 - enter opposing door (Center Control)
 - enter opposing door
-- go down stairs, enter left door
+- go down stairs, go left, enter dome door
 - enter dome, use pc
 - leave through right door
 - enter opposing door on lower level next to stairs
@@ -38,6 +39,8 @@ author: AmenAnthem
 - leave room through same door
 - enter opposing door
 - stay left, enter door (not Exit)
+- enter Level 2 door
+- enter opposing door
 - use item `Mayers' Notebook`, solve puzzle to get code
 
 |                                                                |                                                                |                                                                |                                                                |                                                                |
@@ -50,8 +53,6 @@ author: AmenAnthem
 |**342**156<br>**165**243<br>254361<br>631524<br>423615<br>516432|**264**351<br>**315**624<br>153462<br>426513<br>631245<br>542136|**216**354<br>**453**126<br>634512<br>521643<br>162435<br>345261|**631**542<br>**524**361<br>245136<br>163425<br>352614<br>416253|**326**514<br>**541**236<br>415623<br>632145<br>253461<br>164352|
 |Code: 31452                                                     |Code: 62533                                                     |Code: 52534                                                     |Code: 11446                                                     |Code: 11213                                                     |
 
-- enter Level 2 door
-- enter opposing door
 - go left, use pc, lock, enter received code
 - leave room through same door
 - go left, left, right, left
@@ -76,7 +77,7 @@ author: AmenAnthem
 - enter opposing door without red text
 - go right, search dead body for name `SMITH`
 - leave room through both same doors
-- go left, enter second door to right (Lv3)
+- go left, enter door to right (Lv3)
 - kill enemies
 - get `Code Chart` and name `LUCAS` from dead body
 - use item `Code Chart`, solve puzzle to get code
@@ -90,8 +91,9 @@ author: AmenAnthem
 | |E| | | | |H| | |
 | |R| | | | | | | |
 
+- if other code, reset
 - use pc, lock, enter code `MACHINE`
-- go left leave room through door
+- go left, leave room through door
 - go right, enter door
 - go right, left, enter Lv4 door
 - enter opposing door (elevator)
@@ -104,15 +106,17 @@ author: AmenAnthem
 - enter right door
 - enter opposing door
 - enter opposing door (elevator)
+- use elevator buttons, go to `B3F`
 - leave elevator, enter opposing door
-- go left, right, enter fiirst door to right
+- go left, right, enter first door to right
 - go right, talk to scientist
-- finish dissection, receive `Injection`, choose `RACHEL`
+- finish dissection, receive `Injection`
+- choose `Rachel` (top option)
 - wait for timer to run out (play around)
 - talk to scientist after timer ran out
 - leave room through same door
 - enter opposing door
-- go left, enter door
+- ignore other doors, go left, enter door
 - enter right door
 - go left, enter door (elevator)
 - use elevator buttons, go to `B2F`
@@ -132,6 +136,7 @@ author: AmenAnthem
 - leave through left door
 - enter opposing door (Lv4)
 - go behind containers, get `System Disk` from dead body
+- leave room through same door
 - go right, down stairs
 - enter Lv4 door
 - go left, get `Repair Kit`
@@ -150,7 +155,7 @@ author: AmenAnthem
 - go to red light terminal
 - use `Repair Kit`
 - go down stairs completely to pc
-- use `System Kit`, use pc, timer starts
+- use `System Disc`, use pc, timer starts
 - go up staircase once, leave room through door
 - follow path until end (ignore Lv5 door), enter door
 - enter opposing door
