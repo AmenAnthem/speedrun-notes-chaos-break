@@ -110,7 +110,7 @@ author: AmenAnthem
 - leave elevator, enter opposing door
 - go left, right, enter first door to right
 - go right, talk to scientist
-- finish dissection, receive `Injection`
+- finish dissection, receive `Antigen`
 - choose `Rachel` (top option)
 - wait for timer to run out (play around)
 - talk to scientist after timer ran out
