@@ -4,6 +4,7 @@ author: AmenAnthem
 ---
 
 # Route
+## Split Code SWARM
 - go to `B2F`
 - speak to crew members, get `Lv2 Card`
 - run away, enter elevator
@@ -14,6 +15,7 @@ author: AmenAnthem
 - leave through right door
 - enter opposing door on lower level next to stairs
 - use pc, lock, enter code `SWARM`
+## Split Mayers' Code
 - leave room through same door
 - go up stairs in middle of room, enter door
 - go left, enter door with yellow sign to left
@@ -54,6 +56,7 @@ author: AmenAnthem
 |Code: 31452                                                     |Code: 62533                                                     |Code: 52534                                                     |Code: 11446                                                     |Code: 11213                                                     |
 
 - go left, use pc, lock, enter received code
+## Split Code MACHINE
 - leave room through same door
 - go left, left, right, left
 - enter door (yellow bar)
@@ -93,6 +96,7 @@ author: AmenAnthem
 
 - if other code, reset
 - use pc, lock, enter code `MACHINE`
+## Split Dissection
 - go left, leave room through door
 - go right, enter door
 - go right, left, enter Lv4 door
@@ -112,8 +116,10 @@ author: AmenAnthem
 - go right, talk to scientist
 - finish dissection, receive `Antigen`
 - choose `Rachel` (top option)
+## Split Rachel dies
 - wait for timer to run out (play around)
 - talk to scientist after timer ran out
+## Split Repair Kit
 - leave room through same door
 - enter opposing door
 - ignore other doors, go left, enter door
@@ -140,6 +146,7 @@ author: AmenAnthem
 - go right, down stairs
 - enter Lv4 door
 - go left, get `Repair Kit`
+## Split Roof top
 - go right past turret enemies, leave room through door
 - go left, enter first door to right
 - follow path until end, enter door
