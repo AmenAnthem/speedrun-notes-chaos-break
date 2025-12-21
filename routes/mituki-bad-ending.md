@@ -41,8 +41,6 @@ author: AmenAnthem
 - leave room through same door
 - enter opposing door
 - stay left, enter door (not Exit)
-- enter Level 2 door
-- enter opposing door
 - use item `Mayers' Notebook`, solve puzzle to get code
 
 |                                                                |                                                                |                                                                |                                                                |                                                                |
@@ -55,6 +53,8 @@ author: AmenAnthem
 |**342**156<br>**165**243<br>254361<br>631524<br>423615<br>516432|**264**351<br>**315**624<br>153462<br>426513<br>631245<br>542136|**216**354<br>**453**126<br>634512<br>521643<br>162435<br>345261|**631**542<br>**524**361<br>245136<br>163425<br>352614<br>416253|**326**514<br>**541**236<br>415623<br>632145<br>253461<br>164352|
 |Code: 31452                                                     |Code: 62533                                                     |Code: 52534                                                     |Code: 11446                                                     |Code: 11213                                                     |
 
+- enter Level 2 door
+- enter opposing door
 - go left, use pc, lock, enter received code
 ## Split Code MACHINE
 - leave room through same door
