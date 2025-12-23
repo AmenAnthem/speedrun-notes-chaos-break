@@ -34,6 +34,7 @@ author: AmenAnthem
 - leave room through same door
 - go left, right, left
 - enter left door (not Lab B)
+- kill enemies
 - enter Level 1 door
 - go right, enter door (Cafeteria)
 - enter opposing door (Cafeteria)
